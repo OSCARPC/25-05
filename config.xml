@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.helloworld" version="1.0.0">
-  <name>Boton_Panico</name>
+  <name>Boton de Panico</name>
   <description>Boton de Panico  - Seguridad Ciudadana</description>
   <author href="" email="oscarpcaceres@gmail.com">Gobierno Regional - Piura</author>
   <content src="index.html"/>
